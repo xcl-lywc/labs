@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["9c88"],{"9c88":function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("router-view")},c=[],l={},o=l,r=t("2877"),i=Object(r["a"])(o,u,c,!1,null,null,null);i.options.__file="Index.vue";n["default"]=i.exports}}]);
+//# sourceMappingURL=9c88.6c9ef9d9.js.map
